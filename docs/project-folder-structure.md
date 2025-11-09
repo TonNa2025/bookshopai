@@ -51,7 +51,7 @@ project-root/                                 # root của dự án
 │  │  │           └─ exception/
 │  │  │              ├─ ApiException.java
 │  │  │              └─ GlobalExceptionHandler.java
-│  │  │
+│  │  │           BookshopaiApplication.java
 │  │  ├─ resources/
 │  │  │  ├─ application.properties
 │  │  │  ├─ static/
