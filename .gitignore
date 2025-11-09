@@ -34,8 +34,8 @@ temp/
 
 # Spring / configuration (avoid committing secrets)
 # Keep an example (application.properties.example) in repo, but ignore local config
-application.properties
-application-*.properties
+# application.properties
+# application-*.properties
 .env
 .env.local
 .env.*.local
